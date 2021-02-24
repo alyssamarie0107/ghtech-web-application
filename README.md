@@ -8,7 +8,7 @@
 # Setup Instructions:
 1. Download code
 2. Run `npm start` in terminal 
-3. or click on link: (still need to deploy on Github Pages)
+3. Or click on link: (still need to deploy on Github Pages)
 
 # Third Party List:
 * Firebase
