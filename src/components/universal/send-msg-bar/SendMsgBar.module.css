@@ -1,0 +1,11 @@
+#SendMessageBar {
+    width: 70vw;
+}
+
+#Form {
+    display: flex;
+}
+
+#SubmitBtn {
+    margin: 0 1vw 0 1vw;
+}

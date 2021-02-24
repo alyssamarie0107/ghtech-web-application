@@ -1,0 +1,15 @@
+#SenderMessagesContainer {
+    width: 70vw;
+    display: flex;
+    justify-content: flex-end;
+    /* background-color: green; */
+}
+
+#SenderMessages {
+    width: 45vw;
+    display: flex;
+    color: #FBDC3B;
+    border-radius: 10px;
+    justify-content: flex-start;
+    background-color: rgb(56, 65, 65);
+}

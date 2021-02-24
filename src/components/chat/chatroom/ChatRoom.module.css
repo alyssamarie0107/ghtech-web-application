@@ -1,0 +1,20 @@
+#ChatRoomSection {
+    width: 100vw;
+    height: 93.6vh;
+    display: flex;
+    justify-content: center;
+    font-family: Rajdhani-Regular;
+    background-color: rgb(76, 85, 85);
+}
+
+#ContactsList {
+    width: 30vw;
+    height: 60vh;
+    overflow-y: scroll;
+    /* background-color: teal; */
+}
+
+#ChatRoom {
+    width: 70vw;
+    /* background-color: tomato; */
+}

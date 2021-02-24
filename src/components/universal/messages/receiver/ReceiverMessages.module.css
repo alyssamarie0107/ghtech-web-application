@@ -1,0 +1,14 @@
+#ReceiverMessagesContainer {
+    width: 70vw;
+    display: flex;
+    justify-content: flex-start;
+    /* background-color: blue; */
+}
+
+#ReceiverMessages {
+    width: 45vw;
+    display: flex;
+    border-radius: 10px;
+    justify-content: flex-start;
+    background-color: #FBDC3B;
+}

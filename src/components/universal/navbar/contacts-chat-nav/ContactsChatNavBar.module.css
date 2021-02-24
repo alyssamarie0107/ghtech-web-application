@@ -1,0 +1,45 @@
+.NavBrand, .LoginBtn {
+    font-family: Rajdhani-Regular;
+}
+
+.NavBrand {
+    margin-right: 10px;
+    color: #FBDC3B;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.LoginBtn {
+    border: none;
+    border-radius: 2px;
+    text-decoration: none;
+    background-color: #FBDC3B;
+}
+
+.LoginBtn:focus {
+    outline: none;
+}
+
+#NavLink1 {
+    color: #FBDC3B;
+}
+
+.NavLink2 {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+#NavLink3 {
+    color: #212529;
+}
+
+#NavLink1:hover, 
+.NavLink2:hover,
+#NavLink3:hover {
+    text-decoration: none;
+}
+
+.NavLink2:hover {
+    color: #FBDC3B;
+}

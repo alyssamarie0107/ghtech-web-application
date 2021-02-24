@@ -1,0 +1,32 @@
+.NavBrand, .LoginBtn {
+    font-family: Rajdhani-Regular;
+}
+
+.NavBrand {
+    color: #FBDC3B;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.LoginBtn {
+    border: none;
+    border-radius: 2px;
+    text-decoration: none;
+    background-color: #FBDC3B;
+}
+
+.LoginBtn:focus {
+    outline: none;
+}
+
+.NavLink {
+    text-decoration: none;
+}
+
+.NavLink:hover {
+    text-decoration: none;
+}
+
+#NavLink1 {
+    color: #FBDC3B;
+}

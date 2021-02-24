@@ -1,0 +1,62 @@
+#WelcomeSection {
+    width: 100vw;
+    height: 93.6vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    font-family: Rajdhani-Regular;
+    background-position-y: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-image: url('../../../images/messages.png');
+}
+
+#WelcomeContentContainer {
+    display: flex;
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(100px);
+    background-color: rgba(33, 37, 41, 0.4);
+}
+
+#WelcomeContent {
+    color: white;
+    font-size: 4.6vw;
+    font-weight: bolder;
+    padding: 30px;
+}
+
+#WelcomeContent > span,
+#Prompt > span {
+    color: #FBDC3B;
+}
+
+#Prompt {
+    color: white;
+    font-size: 1.9vw;
+    padding-top: 10px;
+    font-family: Rajdhani-Regular;
+}
+
+.LoginBtn {
+    font-size: 3vw;
+    border: none;
+    margin-top: 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    background-color: #FBDC3B;
+}
+
+.LoginBtn:focus {
+    outline: none;
+}
+
+#NavLink {
+    color: #212529;
+    text-decoration: none;
+}
+

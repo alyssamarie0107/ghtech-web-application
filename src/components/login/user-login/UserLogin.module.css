@@ -1,0 +1,36 @@
+#LoginSection {
+    width: 100vw;
+    height: 93.6vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    font-family: Rajdhani-Regular;
+    background-color: rgb(76, 85, 85);
+}
+
+#LoginHeader {
+    color: #FBDC3B;
+}
+
+#EmailForm {
+    width: 85vw;
+    height: 40vh;
+    display: flex;
+    border-radius: 5px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(157, 165, 168);
+}
+
+#SubmitBtn {
+    color: white;
+}
+
+#SubmitBtn:hover {
+    text-decoration: none;
+}
+
+#GoogleBtn {
+    margin-top: 10px; 
+}
